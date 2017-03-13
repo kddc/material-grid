@@ -1,0 +1,16 @@
+{
+  "name": "material-grid",
+  "version": "0.0.1",
+  "description": "Grid extracted from angular-material",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kddc/material-grid.git"
+  },
+  "keywords": [
+    "grid",
+    "material",
+    "flex",
+    "flexbox"
+  ],
+  "author": "Julian Tiemann<jutiemann@gmail.com>"
+}
